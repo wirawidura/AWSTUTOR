@@ -7,5 +7,6 @@ Basic and intermdiate self training for AWS materials
 
    `aws s3 sync . s3://mybucket`
 
-   on shell screen you must prompt you command on local directory environment that contain of the files that you're ready to sent to S3
+   On shell screen you must prompt you command on local directory environment that contain of the files that you're ready to sent to S3.
+   reference: [https://awscli.amazonaws.com](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/sync.html)
    
